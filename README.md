@@ -8,8 +8,9 @@
 
 ## TELEGRAM
 1. Create a bot with [BOT FATHER](https://t.me/BotFather) on telegram.
-2. COpy your bot token.
+2. Copy your bot token.
 3. Copy your telegram group's id.
+4. Add the bot to your telegram chat.
 
 ## .env
 1. Copy the contents of .env.example into .env 
